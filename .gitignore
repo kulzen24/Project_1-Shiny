@@ -34,4 +34,4 @@ vignettes/*.pdf
 
 # Data files
 *.csv
-.geojson
+*.geojson
